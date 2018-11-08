@@ -7,7 +7,7 @@ import java.util.LinkedList;
 /**
  * This is a Character Trie that stores Strings!
  * @author jfoley
- *
+ * Edited by Elizabeth Boahen
  */
 public class CharTrie extends AbstractSet<String> {
 	/**
